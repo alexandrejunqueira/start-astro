@@ -8,7 +8,12 @@
     "typescriptreact" // Enable .tsx
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "editor.formatOnSave": true,
   "editor.formatOnPaste": false,
-  "editor.rulers": [80]
+  "editor.rulers": [
+    80
+  ]
 }
